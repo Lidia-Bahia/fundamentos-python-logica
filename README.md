@@ -1,8 +1,15 @@
-# Lógica de Programação em Python
+# Fundamentos de Programação com Python
 
-Este repositório reúne alguns exercícios de Lógica de Programação.
+Repositório com exercícios e implementações voltadas ao desenvolvimento de lógica de programação utilizando Python.
 
-Os programas foram implementados em Python com o objetivo de praticar conceitos básicos como estruturas condicionais, laços de repetição, funções e manipulação de dados.
+## Objetivo
+Desenvolver raciocínio lógico e estruturar soluções computacionais para resolução de problemas, com foco em construção de base sólida para análise de dados.
+
+## Conteúdos abordados
+- Estruturas condicionais (if/else)
+- Estruturas de repetição (for/while)
+- Manipulação de dados básicos
+- Funções e organização de código
 
 ## Programas incluídos
 
@@ -21,10 +28,6 @@ Os programas foram implementados em Python com o objetivo de praticar conceitos 
 ## Tecnologias utilizadas
 
 - Python
-
-## Objetivo
-
-Praticar conceitos fundamentais de programação e desenvolver raciocínio lógico aplicado à resolução de problemas.
 
 ## Observação
 
